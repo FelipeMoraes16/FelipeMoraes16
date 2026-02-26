@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Felipe Moraes! 👋
 
-<!--
-**FelipeMoraes16/FelipeMoraes16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+Busco minha primeira oportunidade como **Estagiário de Desenvolvimento Java / Full Stack**. Tenho experiência sólida com logística e estou transicionando para a tecnologia com foco em soluções escaláveis, organização lógica e resolução de problemas.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias e Ferramentas
+- **Linguagens:** Java (Foco em POO)
+- **Frameworks:** Spring Boot (Em aprendizado)
+- **Banco de Dados:** SQL (Noções básicas)
+- **Ferramentas:** Git, VS Code, Lógica de Programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Projetos em Destaque
+- **[Sistema de Relatório de Depósitos](https://github.com/FelipeMoraes16/Exercicios_Java):** Aplicação Java focada em validação de dados, tratamento de exceções (Try-Catch) e manipulação de listas dinâmicas.
