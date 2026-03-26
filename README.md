@@ -6,4 +6,4 @@ Estou no 3º semestre de ADS, fazendo curso por fora na udemy, com foco em Java,
 
 ### 🛠 Tecnologias e Ferramentas
 - **Linguagens:** Java
-- **Ferramentas:** Git, Github
+- **Ferramentas:** Git, Github, SublimeText
